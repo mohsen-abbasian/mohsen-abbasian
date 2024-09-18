@@ -1,2 +1,2 @@
 ![banner](assets/banner.png)
-<h2 style="text-align:center;">WELCOME TO MY PAGE</h2>
+<h2 align="center">WELCOME TO MY PAGE</h2>
